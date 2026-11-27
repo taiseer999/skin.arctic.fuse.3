@@ -62,6 +62,8 @@
     <include file="Dialog_DialogPVRGroupManager.xml" />
     <include file="Dialog_DialogMediaSource.xml" />
     <include file="Dialog_DialogColorPicker.xml" />
+    <include file="Dialog_InfoLine.xml" />
+    <include file="Includes_InfoLine.xml" />
     <include file="Dialog_DialogShortcuts.xml" />
     <include file="Dialog_DialogTrailer.xml" />
     <include file="Dialog_DialogCustom.xml" />
@@ -81,6 +83,8 @@
     <include file="Includes_Animations.xml" />
     <include file="Includes_Weather.xml" />
     <include file="Includes_Weather_Trend.xml" />
+    <include file="Includes_Weather_Trend_UV.xml" />
+    <include file="Includes_Weather_Radar.xml" />
     <include file="Includes_Lists.xml" />
     <include file="Includes_Layouts.xml" />
     <include file="Includes_Widgets.xml" />
@@ -97,6 +101,7 @@
     <include file="Includes_Views_Combined.xml" />
     <include file="Includes_Views_Combined_Wall.xml" />
     <include file="Includes_Views_PVR.xml" />
+    <include file="Includes_Views_Wireframe.xml" />
 
     <include file="Includes_Search.xml" />
 
